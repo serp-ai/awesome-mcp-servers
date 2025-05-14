@@ -7,7 +7,13 @@ Whether you’re looking to connect your assistant to databases, cloud services,
 
 Feel free to explore, fork, or contribute by submitting pull requests with additional MCP servers or updates. Happy integrating!
 
-For a full database of MCP Servers with more extensive functionality, visit: [SERP MCP Servers](https://serp.co/mcp/servers/)
+> For a full database of MCP Servers with more extensive functionality, visit:
+>
+> 🔗 [SERP AI MCP Servers](https://serp.ai/mcp/servers/)
+> 
+> 🔗 [SERP MCP Servers](https://serp.co/mcp/servers/)
+
+---
 
 |MCP Server|description|categories|stars|forks|
 |-|-|-|-|-|
